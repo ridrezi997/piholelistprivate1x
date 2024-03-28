@@ -1,0 +1,8 @@
+0.0.0.0 adeventtrackermonitoring.spotify.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 audio-ak-spotify-com.akamaized.net
+0.0.0.0 litix.io
+0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 o22381.ingest.sentry.io
+0.0.0.0 canvaz.scdn.co
