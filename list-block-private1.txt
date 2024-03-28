@@ -1,3 +1,5 @@
+# Last Updated: 28/03/24 - 17:00 PM
+
 0.0.0.0 adeventtrackermonitoring.spotify.com
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 audio-ak-spotify-com.akamaized.net
